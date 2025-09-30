@@ -1,2 +1,1 @@
-This is a lab2 for Software Engineering Methods.
-And this is second check-up if Cl workflow is working
+![workflow](https://github.com/annasenen/sem/actions/workflows/main.yml/badge.svg)
