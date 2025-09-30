@@ -1,2 +1,2 @@
-This is a lab1 for Software Engineering Methods.
-And this check-up if Cl workflow is working
+This is a lab2 for Software Engineering Methods.
+And this is second check-up if Cl workflow is working
